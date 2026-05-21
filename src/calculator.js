@@ -2,8 +2,8 @@ function add(a, b) {
   return a + b;
 }
 
-function subtract(a, b) {
-  return a - b;
+function subtract(a, c) {
+  return a - c;
 }
 
 function multiply(a, b) {
